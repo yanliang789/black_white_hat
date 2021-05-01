@@ -3,6 +3,12 @@
 ### Misleading visualization in the media 
 -[Misleading visualization](https://user-images.githubusercontent.com/35818451/116770263-1d635f00-a9f7-11eb-9ee8-004df01aed34.png)
 -[Redesign Using Bar Chart at a Glance](https://bl.ocks.org/yanliang789/590c5eb4a34d9bd4b535b21aabaaaba3)
+```markdown
+- The visualization is for comparison, using a bar chart is much easier than a spread pie chart.
+- Included a zero baseline is much clearer, the scale is easy to read.
+- With tooltip with bar chart easy and efficient to visualize.
+- Using squetial color for some type compare
+```
 
 ### Black Hat
 [Black Hat Block](https://bl.ocks.org/yanliang789/75ea984109906138aca39b6d7d82f9b3)
@@ -18,18 +24,13 @@
 - There is no evidence about where the county_demographics.csv comes from and how it was collected and where it was found.
 ```
 
-### While Hat
-
 ### White Hat
-[]()
 [source link](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalTemperatures.csv)
-
+[White Hat Block](https://bl.ocks.org/yanliang789/919ea98f44b12cc2be4af3e855388bc7)
 ```markdown
 **Reason**
-- The visual representation is clear and easy to understand for the intended audience
-- Appropriate color scales are used and the legend is clearly labeled and visible with an appropriately sized font
-- Any data transformations are clearly mentioned
-- Gestalt principles (Links to an external site.) are followed.
-- Annotations are clearly visible and draw viewer's attention appropriately. Hint: Consider using d3-annotation - https://d3-annotation.susielu.com/ (Links to an external site.) for this. d3-annotation is really awesome!
-- The sources of data are stated for viewers to see & verify
+- The visual representation with clear X-Axis and Y-xis easy to understand.
+- The notation with pink mark, easy to draw the viewer's read.
+- The data are download from Kaggle pick the data time from 2000 to 2015, rename column 'dt' to 'date' for convenience.
+- The data source link is as above, I also site the source code in my block.
 ```
