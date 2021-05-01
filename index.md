@@ -26,7 +26,7 @@
 ```
 
 ### White Hat
-[source link](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalTemperatures.csv)
+[Source link](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalTemperatures.csv)
 [White Hat Block](https://bl.ocks.org/yanliang789/919ea98f44b12cc2be4af3e855388bc7)
 ```markdown
 **Reason**
