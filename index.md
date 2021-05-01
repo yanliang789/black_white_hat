@@ -2,7 +2,7 @@
 
 ### misleading visualization in the media 
 [Misleading visualization](https://user-images.githubusercontent.com/35818451/116770263-1d635f00-a9f7-11eb-9ee8-004df01aed34.png)
-[Using Bar Chart Compare at a Glance]https://bl.ocks.org/yanliang789/590c5eb4a34d9bd4b535b21aabaaaba3
+[Using Bar Chart Compare at a Glance](https://bl.ocks.org/yanliang789/590c5eb4a34d9bd4b535b21aabaaaba3)
 
 ### Black Hat
 [Black Hat Block](https://bl.ocks.org/yanliang789/75ea984109906138aca39b6d7d82f9b3)
