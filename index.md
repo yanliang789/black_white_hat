@@ -3,10 +3,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### A11 Black Hat White Hat
 
-
-```markdown
 ### Black Hat
-
+[Black Hat Block](https://bl.ocks.org/yanliang789/75ea984109906138aca39b6d7d82f9b3)
+```markdown
 - Hard to understand and read
 - Miss leading label for X-Axis: Not true which state or which country the counties belong.
 - Miss leading label for X-Axis: Not true which state or which country the counties belong.
