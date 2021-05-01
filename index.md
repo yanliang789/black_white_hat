@@ -15,3 +15,17 @@
 ```
 
 ### While Hat
+
+### White Hat
+[]()
+[source link](https://www.kaggle.com/tunguz/us-elections-dataset)
+
+```markdown
+**Reason**
+- The visual representation is clear and easy to understand for the intended audience
+- Appropriate color scales are used and the legend is clearly labeled and visible with an appropriately sized font
+- Any data transformations are clearly mentioned
+- Gestalt principles (Links to an external site.) are followed.
+- Annotations are clearly visible and draw viewer's attention appropriately. Hint: Consider using d3-annotation - https://d3-annotation.susielu.com/ (Links to an external site.) for this. d3-annotation is really awesome!
+- The sources of data are stated for viewers to see & verify
+```
