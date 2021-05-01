@@ -1,7 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/yanliang789/black_white_hate/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
+## Welcome My Assignment 11 Black Hat White Hat
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### A11 Black Hat White Hat
