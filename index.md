@@ -1,8 +1,8 @@
 ## Assignment 11 Black Hat White Hat
 
 ### Misleading visualization in the media 
--[Misleading visualization](https://user-images.githubusercontent.com/35818451/116770263-1d635f00-a9f7-11eb-9ee8-004df01aed34.png)
--[Redesign Using Bar Chart at a Glance](https://bl.ocks.org/yanliang789/590c5eb4a34d9bd4b535b21aabaaaba3)
+- [Misleading visualization](https://user-images.githubusercontent.com/35818451/116770263-1d635f00-a9f7-11eb-9ee8-004df01aed34.png)
+- [Redesign Using Bar Chart at a Glance](https://bl.ocks.org/yanliang789/590c5eb4a34d9bd4b535b21aabaaaba3)
 ```markdown
 - The visualization is for comparison, using a bar chart is much easier than a spread pie chart.
 - Included a zero baseline is much clearer, the scale is easy to read.
